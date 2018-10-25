@@ -21,5 +21,5 @@ public class Question {
                 count++;
             }
         }
-    } //Kein Ahnung ob das alles stimmt, weil ich das programm nicht ausführen und testen kann xD!
+    } 
 }
